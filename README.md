@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 呪術廻戦 · ERIC MBITHI
+# ERIC MBITHI
 
 ### ⚡ *"I don't need a reason to help someone."* — Yuji Itadori
 
@@ -94,7 +94,7 @@ sorcerer = {
 
 <div align="center">
 
-### 🖤 *"I don't know how to give up."* — Yuji Itadori
+### 🖤 *“Even if I’m alone, I will continue moving forward.”* — Yuta Okkotsu
 
 *The domain is being built. Come back soon.*
 
