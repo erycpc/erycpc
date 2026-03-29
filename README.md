@@ -82,11 +82,11 @@ sorcerer = {
 
 <div align="center">
 
-![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericmbithi&show_icons=true&theme=tokyonight&hide_border=true&title_color=9b59ff&icon_color=9b59ff)
+![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erycpc&show_icons=true&theme=tokyonight&hide_border=true&title_color=9b59ff&icon_color=9b59ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmbithi&layout=compact&theme=tokyonight&hide_border=true&title_color=9b59ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erycpc&layout=compact&theme=tokyonight&hide_border=true&title_color=9b59ff)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ericmbithi&theme=tokyonight&hide_border=true&ring=9B59FF&fire=9B59FF&currStreakLabel=9B59FF)
+![GitHub Streak](https://streak-stats.demolab.com?user=erycpc&theme=tokyonight&hide_border=true&ring=9B59FF&fire=9B59FF&currStreakLabel=9B59FF)
 
 </div>
 
