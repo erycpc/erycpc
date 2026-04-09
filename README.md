@@ -1,16 +1,8 @@
 <div align="center">
 
-# ERIC MBITHI
-
-## Full Stack Developer
-
 *Building with Code & Curiosity*
 
 ---
-
-</div>
-
-<div align="center">
 
 ## ABOUT ME
 
@@ -31,6 +23,7 @@ Precision • Creativity • Continuous Learning • Design Thinking
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
 
+
 **Frameworks & Tools**
 
 ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white)
@@ -41,27 +34,11 @@ Precision • Creativity • Continuous Learning • Design Thinking
 
 ---
 
-## FEATURED PROJECTS
+## GITHUB CONTRIBUTION STATS
 
-### PayLoop
+<img src="https://github-readme-stats.vercel.app/api?username=erycpc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=FFFFFF&icon_color=FFFFFF" width="100%"/>
 
-Subscription management system for payments and recurring billing.
-
-[View Repository](https://github.com/erycpc/PayLoop)
-
----
-
-### Opus
-
-Full-stack application demonstrating modern web development practices.
-
-[View Repository](https://github.com/erycpc/opus)
-
----
-
-## CONNECT
-
-[Email](mailto:ericmbithiofficial@gmail.com) • [LinkedIn](https://www.linkedin.com/in/eric-mbithi-0a10222a3/) • [Twitter](https://x.com/erycpc) • [GitHub](https://github.com/erycpc)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erycpc&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=00000000&text_color=FFFFFF" width="100%"/>
 
 ---
 
@@ -71,8 +48,6 @@ Full-stack application demonstrating modern web development practices.
 
 ---
 
-© 2026 Eric Mbithi | Nairobi, Kenya
-
-Open to Opportunities
+© 2024 Eric Mbithi | Nairobi, Kenya
 
 </div>
