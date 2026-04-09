@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Eric
 
-**Full Stack Developer** • **React Specialist** • **Mobile Developer**
+**Full Stack Developer** 
 
 *Building with Code & Curiosity*
 
