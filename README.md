@@ -38,6 +38,7 @@ I am currently developing **PayLoop**, a complete subscription management system
 ### 🔌 Back-end
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C63FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![PostHog](https://img.shields.io/badge/PostHog-1D4ED8?style=for-the-badge&logo=posthog&logoColor=white)
 
