@@ -1,28 +1,19 @@
 # Namaste 🙏 I'm Eric
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Software+Developer;Tech+Enthusiast;Always+Learning;Coding+%7C+Gaming+%7C+Anime" alt="Typing SVG" />
-</div>
-
----
+<img align="right" height="250" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/programmer.gif" />
 
 I work on Full Stack Development and web designing when I am bored while focusing on Software Development. Pursuing my passion in coding and learning programming for my career. I'm currently working on my programming skills. Simply to learn, unlearn and relearn.
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erycpc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erycpc&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
 ## 🌟 About Me
 
-- 👨‍💻 I'm currently working on and developing my programming skills.
-- 🏗️ I worked on a Subscription Management app as my first real project.
-- 💼 I have hands-on experience with Full Stack Development
-- 🎯 Ask me about Full Stack Development, Software Development, Python and JavaScript.
-- 🎮 Interested in Software Development, Anime, Gaming and Music.
-- 🎨 I like perfection.
+✨ I'm currently working on and developing my programming skills.
+💼 I worked on Subscription Management app as my first real project.
+🎯 I have hands-on experience with Full Stack Development
+💡 Ask me about Full Stack Development, Software Development, Python and JavaScript.
+🎮 Interested in Software Development, Anime, Gaming and Music.
+🎨 I like perfection.
 
 ---
 
@@ -30,8 +21,8 @@ I work on Full Stack Development and web designing when I am bored while focusin
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ericmbithiofficial@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-mbithi-0a10222a3/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ericmbithiofficial@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-mbithi-0a10222a3/)
 
 </div>
 
@@ -41,18 +32,20 @@ I work on Full Stack Development and web designing when I am bored while focusin
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Clerk](https://img.shields.io/badge/Clerk-6C63FF?style=for-the-badge&logo=clerk&logoColor=white)
-![PostHog](https://img.shields.io/badge/PostHog-1D4ED8?style=for-the-badge&logo=posthog&logoColor=white)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com)
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![Clerk](https://img.shields.io/badge/Clerk-6C63FF?style=flat&logo=clerk&logoColor=white)](https://clerk.dev)
+[![PostHog](https://img.shields.io/badge/PostHog-1D4ED8?style=flat&logo=posthog&logoColor=white)](https://posthog.com)
 
 </div>
 
@@ -62,19 +55,25 @@ I work on Full Stack Development and web designing when I am bored while focusin
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Frameworks & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Clerk](https://img.shields.io/badge/Clerk-6C63FF?style=for-the-badge&logo=clerk&logoColor=white)
-![PostHog](https://img.shields.io/badge/PostHog-1D4ED8?style=for-the-badge&logo=posthog&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erycpc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erycpc&layout=compact&langs_count=7&theme=tokyonight" />
 
 </div>
 
@@ -83,16 +82,28 @@ I work on Full Stack Development and web designing when I am bored while focusin
 ## 🚀 Featured Projects
 
 ### [PayLoop](https://github.com/erycpc/PayLoop)
-A comprehensive subscription management application for handling payments and recurring billing. Built with modern tech stack for seamless payment processing.
+A comprehensive subscription management application for handling payments and recurring billing. Built with modern tech stack.
 
 ### [Opus](https://github.com/erycpc/opus)
-A full-stack application showcasing modern web development practices and technologies. Demonstrates hands-on experience with current best practices.
+A full-stack application showcasing modern web development practices and technologies.
 
 ---
 
-## 📊 GitHub Stats
+## 💝 Support Me 🎉
+
+If you find my work helpful, consider supporting me!
 
 <div align="center">
+
+[![PayPal](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.paypal.com/donate/?hosted_button_id=5ZS2WZ86DLTHA)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 Profile Statistics
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=erycpc&theme=tokyo-night&hide_border=true" width="100%"/>
 
@@ -106,19 +117,7 @@ A full-stack application showcasing modern web development practices and technol
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=erycpc&theme=tokyonight&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## 💝 Support Me 🎉
-
-If you find my projects helpful, consider supporting me!
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.paypal.com/donate/?hosted_button_id=5ZS2WZ86DLTHA)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=erycpc&theme=tokyonight" width="100%" />
 
 </div>
 
@@ -126,15 +125,11 @@ If you find my projects helpful, consider supporting me!
 
 <div align="center">
 
-### Let's Connect & Collaborate! 🤝
-
-If you have any questions or want to collaborate on projects, feel free to reach out. I'm always excited to work on new challenges and learn from the community!
-
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square" />
-<img src="https://img.shields.io/badge/Based-Nairobi%2C%20Kenya-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Nairobi%2C%20Kenya-📍-blue?style=flat" />
+<img src="https://img.shields.io/badge/Open%20To%20Opportunities-💼-brightgreen?style=flat" />
 
 ### Made with ❤️ by Eric
 
-© 2026 | All rights reserved
+© 2026 - All rights reserved
 
 </div>
