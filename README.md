@@ -1,72 +1,22 @@
+<a href= "https://github.com/erycpc">
+  <img src="retouch_2026041011100551.jpg" width="100%" alt="erycpc banner"/>
+</a>
 <div align="center">
-
-# 👋 Hello, I'm Eric
-
-**Full Stack Developer** 
-
-*Building with Code & Curiosity*
-
----
-
+  <a href="https://github.com/erycpc?tab=repositories"><img alt="Stars" title="Stars Profile" src="https://img.shields.io/github/stars/erycpc?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiPjwvcGF0aD48L3N2Zz4=" /></a>
+  &nbsp;
+  <a href="https://github.com/erycpc/PayLoop/forks"><img alt="Forks" title="Forks Repository" src="https://img.shields.io/github/forks/erycpc/PayLoop?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTUgNS4zNzJ2Ljg3OGMwIC40MTQuMzM2Ljc1Ljc1Ljc1aDQuNWEuNzUuNzUgMCAwIDAgLjc1LS43NXYtLjg3OGEyLjI1IDIuMjUgMCAxIDEgMS41IDB2Ljg3OGEyLjI1IDIuMjUgMCAwIDEtMi4yNSAyLjI1aC0xLjV2Mi4xMjhhMi4yNTEgMi4yNTEgMCAxIDEtMS41IDBWOC41aC0xLjVBMi4yNSAyLjI1IDAgMCAxIDMuNSA2LjI1di0uODc4YTIuMjUgMi4yNSAwIDEgMSAxLjUgMFpNNSAzLjI1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBabTYuNzUuNzVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm0tMyA4Ljc1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBaIj48L3BhdGg+PC9zdmc+"/></a>
+  &nbsp;
+  <a href="https://github.com/erycpc?tab=followers"><img alt="Followers" title="Github Followers" src="https://img.shields.io/github/followers/erycpc?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIgNS41YTMuNSAzLjUgMCAxIDEgNS44OTggMi41NDkgNS41MDggNS41MDggMCAwIDEgMy4wMzQgNC4wODQuNzUuNzUgMCAxIDEtMS40ODIuMjM1IDQgNCAwIDAgMC03LjkgMCAuNzUuNzUgMCAwIDEtMS40ODItLjIzNkE1LjUwNyA1LjUwNyAwIDAgMSAzLjEwMiA4LjA1IDMuNDkzIDMuNDkzIDAgMCAxIDIgNS41Wk0xMSA0YS43NS43NSAwIDEgMCAwIDEuNSAxLjUgMS41IDAgMCAxIC42NjYgMi44NDQuNzUuNzUgMCAwIDAtLjQxNi42NzJ2LjM1MmEuNzUuNzUgMCAwIDAgLjU3NC43M2MxLjIuMjg5IDIuMTYyIDEuMiAyLjUyMiAyLjM3MmEuNzUuNzUgMCAxIDAgMS40MzQtLjQ0IDUuMDEwIDUuMDEwIDAgMCAwLTMuMTAyLTMuMTY4QTMgMyAwIDAgMCAxMSA0Wm0tNS41LS41YTIgMiAwIDEgMCAwIDQgMiAyIDAgMCAwIDAtNFoiPjwvcGF0aD48L3N2Zz4=" /></a>
+  &nbsp;
+  <a href="https://personal-portfolio-woad-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  &nbsp;
+  <a href="mailto:ericmbithiofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1pSHsXe1eSpjIub1V3MBPxZagsGyKHddg/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSA5aC00VjNIOXY2SDVsNyA3IDctN3pNNSAxOHYyaDE0di0ySDV6Ii8+PC9zdmc+&logoColor=white"></a>
 </div>
 
-## 🎯 About me
-
-I am a passionate Full Stack Developer based in **Nairobi, Kenya**, dedicated to creating seamless digital experiences through clean code and thoughtful design.
-
-I work on **front-end to backend**, always prioritizing **clean architecture**, **code organization**, and **user experience**.
-
-I am currently developing **PayLoop**, a complete subscription management system that combines **React**, **React Native**, and **Clerk**, designed as a real-world market product.
-
-- 💻 **Main project:** PayLoop (React + React Native + Clerk + Posthog)
-- 🔧 **Technical Interests:** Full stack development, system architecture, and mobile applications
-- 🎨 **UI/UX:** Prototyping and modern interface design with Figma
-- 📚 **Beyond code:** Passionate about anime, gaming, and building innovative solutions with precision and creativity
-
 ---
 
-## 🛠️ Tech Stack
-
-### ⚡ Front-end
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### 🔌 Back-end
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C63FF?style=for-the-badge&logo=clerk&logoColor=white)
-![PostHog](https://img.shields.io/badge/PostHog-1D4ED8?style=for-the-badge&logo=posthog&logoColor=white)
-
-### 🎨 Tools & Services
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-## 📊 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=erycpc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erycpc&layout=compact&langs_count=8&theme=github_dark&hide_border=true" width="100%"/>
-
----
-
-## 📬 Contacts
-
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericmbithiofficial@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-mbithi-0a10222a3/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/erycpc)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erycpc)
-
----
-
-## 💝 Support
-
-[![PayPal](https://img.shields.io/badge/Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=5ZS2WZ86DLTHA)
+<div align="justify" style="max-width: 800px; margin: 0 auto;">
+<p>Hey, <b>I'm Eric!</b> I'm a Software Engineer Grad (Class of 2025) based near Nairobi, Kenya. When I'm not deep into development, you can usually find me binge-watching anime or playing games or trying to figure out why my code only works on my machine, or negotiating with CSS to just center a div already.<p/>
+</div>
