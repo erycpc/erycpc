@@ -23,6 +23,8 @@
 
 ---
 
-<div class="flex justify-center p-4 border-t border-base-300 bg-transparent">
-  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7BsBL3Ph9LBaTwFri4WyRl?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div align="center">
+  <a href="https://erycpc.github.io/erycpc/">
+    <img src="https://img.shields.io/badge/My%20Playlist-Listen%20Now-000000?style=for-the-badge&logo=spotify&logoColor=1DB954"/>
+  </a>
 </div>
