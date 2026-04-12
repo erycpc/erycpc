@@ -1,3 +1,54 @@
-<div class="flex justify-center p-4 border-t border-base-300 bg-transparent">
-  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7BsBL3Ph9LBaTwFri4WyRl?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>erycpc</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      min-height: 100vh;
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 2rem;
+      padding: 2rem;
+    }
+
+    h1 { font-size: 2rem; }
+    p  { color: #8b949e; font-size: 1rem; }
+
+    .spotify-wrapper {
+      width: 100%;
+      max-width: 700px;
+    }
+
+    iframe {
+      border-radius: 12px;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>👋 Hey, I'm erycpc</h1>
+  <p>Here's what I'm listening to</p>
+
+  <div class="spotify-wrapper">
+    <iframe
+      src="https://open.spotify.com/embed/playlist/7BsBL3Ph9LBaTwFri4WyRl?utm_source=generator&theme=0"
+      height="352"
+      frameborder="0"
+      allowfullscreen=""
+      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+      loading="lazy">
+    </iframe>
+  </div>
+
+</body>
+</html>
