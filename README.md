@@ -23,8 +23,15 @@
 
 ---
 
+![Image](https://github.com/user-attachments/assets/b6ffd95e-0fca-4257-b2f1-151e6a8bd67a)
+
+
+---
+
 <div align="center">
   <a href="https://erycpc.github.io/erycpc/">
     <img src="https://img.shields.io/badge/My%20Playlist-Listen%20Now-000000?style=for-the-badge&logo=spotify&logoColor=1DB954"/>
   </a>
 </div>
+
+---
