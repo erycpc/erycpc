@@ -23,4 +23,6 @@
 
 ---
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31b6u6eyhqzalbicuwrrdg3wl2mu&count={count})
+<div class="flex justify-center p-4 border-t border-base-300 bg-transparent">
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7BsBL3Ph9LBaTwFri4WyRl?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
