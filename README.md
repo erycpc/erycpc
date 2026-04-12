@@ -20,3 +20,7 @@
 <div align="justify" style="max-width: 800px; margin: 0 auto;">
 <p>Hey, <b>I'm Eric!</b> I'm a Software Engineer Grad (Class of 2025) based near Nairobi, Kenya. When I'm not deep into development, you can usually find me binge-watching anime or playing games or trying to figure out why my code only works on my machine, or negotiating with CSS to just center a div already.<p/>
 </div>
+
+---
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
