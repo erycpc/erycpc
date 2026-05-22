@@ -23,9 +23,13 @@
 
 ---
 
+###
+
+<br clear="both">
+
 <div align="center">
-  <a href="https://erycpc.github.io/erycpc/">
-    <img src="https://img.shields.io/badge/My%20Playlist-Listen%20Now-000000?style=for-the-badge&logo=spotify&logoColor=1DB954"/>
+  <a href="https://open.spotify.com/user/22xwvaprb7b2krxuk5a2bnqzq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22xwvaprb7b2krxuk5a2bnqzq&count=2&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
