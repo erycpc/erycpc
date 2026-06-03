@@ -23,10 +23,6 @@
 
 ---
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31srctda3mxqzcjj7wde5gjlikii">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31srctda3mxqzcjj7wde5gjlikii&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31srctda3mxqzcjj7wde5gjlikii&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=true)](https://github.com/kittinan/spotify-github-profile)
 
 ---
