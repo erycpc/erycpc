@@ -22,9 +22,9 @@ Right now I'm sharpening frontend skills (React, Next.js, Tailwind, anime.js), l
 
 ## 🤝 Connect
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:YOUR_EMAIL@gmail.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/iiTzEric)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eric-mbithi-b2b661408/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ericmbithiofficial@gmail.com)
 
 ## 💻 Tech Stack
 
@@ -32,11 +32,11 @@ Right now I'm sharpening frontend skills (React, Next.js, Tailwind, anime.js), l
 
 ## 📊 GitHub Stats
 
-[![Eryc's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&border_radius=5)](https://github.com/YOUR_USERNAME)
+[![Eryc's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&border_radius=5)](https://github.com/iiTzEric)
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=1a1b27&color=C9D1D9&line=61DAFB&point=C9D1D9&area=true&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iiTzEric&bg_color=1a1b27&color=C9D1D9&line=61DAFB&point=C9D1D9&area=true&hide_border=true)](https://github.com/YOUR_USERNAME)
 
 ---
 
