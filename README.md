@@ -1,42 +1,76 @@
-<a href= "https://github.com/erycpc">
-  <img src="retouch_2026041011100551.jpg" width="100%" alt="erycpc banner"/>
+<a href= "https://github.com/iiTzEric">
+  <img src="luffy.jpg" width="100%" alt="iiTzEric banner"/>
 </a>
 
 ---
 
-# Hi 👋, I'm Eryc
+<h1 align="center">Hi 👋, I'm Eric</h1>
 
-### Backend-Leaning Full-Stack Developer
+<h3 align="center">Backend-Leaning Full-Stack Developer</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=Building+scalable+backend+systems;Node.js+%2B+Express+%2B+MongoDB+%2B+PostgreSQL;Currently+job-hunting+%7C+Building+SkillCast)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=Building+scalable+backend+systems;Node.js+%2B+Express+%2B+MongoDB+%2B+PostgreSQL;Currently+job-hunting+%7C+Building+SkillCast" alt="Typing SVG" />
+</p>
 
-Building reliable backend systems with clean architecture and scalable APIs — based in Nairobi, Kenya.
+<p align="center">
+Building reliable backend systems with clean architecture and scalable APIs.
+</p>
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-Moringa School graduate, currently job-hunting while building **SkillCast**, a skills marketplace platform, and a **Last of Us-themed portfolio site** built with Next.js and anime.js.
+<img align="right" src="656d5264ae5706418ac486de0624abdd.jpg" width="280" alt="iiTzEric"/>
 
-I focus on backend development — Node.js, Express, MongoDB, and PostgreSQL — with React on the frontend when the project calls for it. I like building products with real utility for Kenya's market.
+**Eryc**, here — a Moringa School graduate, currently job-hunting while building **SkillCast**, a skills marketplace platform for the Kenyan market.
 
-Right now I'm sharpening frontend skills (React, Next.js, Tailwind, anime.js), learning AWS, working through structured DSA practice in JavaScript and Python, and picking up a new language on the side.
+I focus on backend development — Node.js, Express, MongoDB, and PostgreSQL — with React on the frontend when the project calls for it. Also building a **Last of Us-themed portfolio site** with Next.js and anime.js.
 
-## 🤝 Connect
+Currently learning **React, Next.js, Tailwind, anime.js, and AWS**, on top of my Node/Express base, while sharpening my problem-solving skills through **Data Structures & Algorithms** in JavaScript and Python.
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/iiTzEric)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eric-mbithi-b2b661408/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ericmbithiofficial@gmail.com)
+My goal is simple: write clean code, build reliable software, and grow into an engineer who ships things that last.
 
-## 💻 Tech Stack
+<br clear="right"/>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,react,nextjs,tailwind,js,ts,html,css,git,github,aws)](https://skillicons.dev)
+<h2 align="center">🤝 Connect</h2>
 
-## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/iiTzEric">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/eric-mbithi-b2b661408/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:ericmbithiofficial@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
 
-[![Eryc's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&border_radius=5)](https://github.com/iiTzEric)
+<h2 align="center">💻 Tech Stack</h2>
 
-## 📈 Activity Graph
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,react,nextjs,tailwind,js,ts,html,css,git,github,aws" />
+</p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iiTzEric&bg_color=1a1b27&color=C9D1D9&line=61DAFB&point=C9D1D9&area=true&hide_border=true)](https://github.com/YOUR_USERNAME)
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=iiTzEric&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
+
+</div>
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iiTzEric&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+</p>
+
+<h2 align="center">⌘ Philosophy</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+</p>
 
 ---
 
